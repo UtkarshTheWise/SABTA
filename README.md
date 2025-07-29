@@ -9,3 +9,8 @@ Then it processes the image of the cloth by going through a Cloth Segmentation p
 These masks are then copied into the dataset used by VITON-HD which is pre-made AI ML library that uses diffusion to virtually try on the clothes.
 
 Finally, the result is generated and the user can see how the cloth looks on them!
+
+
+PRE-REQUISITES:
+
+Since VITON-HD uses a 4 GB dataset for processing, kindly clone it from https://github.com/shadow2496/VITON-HD
